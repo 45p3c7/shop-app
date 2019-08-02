@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">shopping</string>
+
+    <string name="list_new_item">Need to buy</string>
+    <string name="list_archive_item">Archive</string>
+    <string name="item">Item</string>
+    <string name="alert_dialog_add">Add</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="alert_dialog_add_title">Add New Purchase</string>
+    <string name="alert_dialog_select_title">Select Photo</string>
+    <string name="alert_dialog_select_msg">Please select where take photo from</string>
+    <string name="alert_dialog_take_photo">Take a photo</string>
+    <string name="alert_dialog_select_from_storage">Select from a storage</string>
+    <string name="favorite">favorite</string>
+    <string name="archive_all">Archive all</string>
+    <string name="validation_error">description can not be empty</string>
+</resources>
